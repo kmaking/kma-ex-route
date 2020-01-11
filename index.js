@@ -23,7 +23,7 @@ class Router {
      * 
      * @constructs Router
      */
-    constructor(route, _controller_path = './controllers') {
+    constructor(route, _controller_path = './../controllers') {
 
         /**
          * @member {Route} route Express Route Object
