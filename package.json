@@ -1,6 +1,6 @@
 {
   "name": "kma-ex-route",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "KMA Ex-Route is a Package for ExpressJS to Generate Route.",
   "main": "index.js",
   "scripts": {
